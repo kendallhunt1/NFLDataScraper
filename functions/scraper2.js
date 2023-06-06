@@ -411,13 +411,3 @@ executeSequentially("atl", years, 0, () => {
   // All years have been processed
   console.log("Execution completed");
 });
-
-
-
-
-
-
-
-// Need each individual game to be it's own array
-// Consider recording more statistics rather than the given for an entire season of games?
-// Could do each games' box score individually
